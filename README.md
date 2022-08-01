@@ -7,11 +7,11 @@
 <a href="https://discord.com/Ashad#8550">
   <img align="left" alt="Ashad's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/Ashadqu7">
+<a href="https://twitter.com/#Ashadqu7">
   <img align="left" alt="Asahd Qureshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/AshadQureshi/">
-  <img align="left" alt="Ashad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/Ashad Qureshi/">
+  <img align="left" alt="Ashad's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
 <br />
@@ -24,5 +24,5 @@
 
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&theme=gotham" alt="Asahd001" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&theme=gotham" alt="Ashad001" />
 <br />
