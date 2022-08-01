@@ -1,4 +1,4 @@
-### Hey there, I am Ashad Qureshi, a passionate programmer seeking to be perfect!
+### Hey there, I am Ashad Qureshi, a passionate computer science student seeking to be a good programmer!
 <br />
 
 <a href="https://www.instagram.com/ashadabdullah_/">
