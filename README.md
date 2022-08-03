@@ -7,7 +7,7 @@
 <a href="https://twitter.com/#Ashadqu7">
   <img align="left" alt="Asahd Qureshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/Ashad Qureshi/">
+<a href="https://www.linkedin.com/in/ashad-qureshi-65b65a219/">
   <img align="left" alt="Ashad's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
