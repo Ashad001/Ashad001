@@ -27,3 +27,6 @@
 
 ![Ashad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&theme=radical)
 <br />
+![Ashad001's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ashad001&hide_border=true&theme=redical)
+
+</br>
