@@ -10,6 +10,10 @@
 <a href="https://www.linkedin.com/in/ashad-qureshi-65b65a219/">
   <img align="left" alt="Ashad's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/image/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+
 <br />
 <br />
 
