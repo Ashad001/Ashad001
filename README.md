@@ -25,5 +25,5 @@
 
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&theme=gotham" alt="Ashad001" />
+![Ashad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&theme=radical)
 <br />
