@@ -16,21 +16,28 @@
 </br>
 
 
-<div align="center">
 
-</br>
+<p align="center">
+<a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&hide_border=true&count_private=true&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashad001&hide=TeX,QMake&theme=gotham&layout=compact&hide_border=true"/>
+</a>
 
+<a>
+  <img height="137em" src="https://github-profile-trophy.vercel.app/?username=Ashad001&theme=nord&no-frame=true&margin-w=4&row=1"/>
+</a>
 
-[![Ashad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashad001&theme=gotham&border_color=013220)](https://github.com/anuraghazra/github-readme-stats)
+<a>
+  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Ashad001&hide_border=true&theme=gotham" />
+</a>
 
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashad001&theme=gotham&border=013220&date_format=M%20j%5B%2C%20Y%5D&ring=2234AE&fire=D3D3D3&currStreakLabel=D3D3D3&sideNums=7A7ADB)
+**NOTE** : The above chart (Most Languages Used) does not indicate my skill level or something. It is just a github metric on which language I have coded the most.
 
-![Ashad's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ashad001&hide_border=false&theme=gotham)
-
-</br>
 
 ---
+<div align="center">
 
 <i>Let's connect around the web:</i><br>
 
