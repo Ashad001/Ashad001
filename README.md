@@ -1,4 +1,4 @@
-### Hey there, I am Ashad, a passionate computer science student seeking to be a good programmer!
+### Hey there, I am Ashad, a passionate computer science undergrad seeking to be a good programmer!
 <br />
 
 <a href="https://www.instagram.com/ashadabdullah_/">
@@ -33,7 +33,6 @@
 
 </p>
 
-**NOTE** : The above chart (Most Languages Used) does not indicate my skill level or something. It is just a github metric on which language I have coded the most.
 
 
 ---
