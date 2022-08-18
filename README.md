@@ -12,7 +12,7 @@
 <p align="center">
 <a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&hide_border=true&count_private=true&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashad001&hide=TeX,QMake&theme=gotham&layout=compact&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashad001&hide=TeX&langs_count=8,QMake&theme=gotham&layout=compact&hide_border=true"/>
 </a>
 
 <a>
