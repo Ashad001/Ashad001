@@ -1,15 +1,7 @@
 ### Hey there, I am Ashad, a passionate computer science undergrad seeking to be a good programmer!
 <br />
 
-<a href="https://www.instagram.com/ashadabdullah_/">
-  <img align="left" alt="Ashad's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/Ashadqu7">
-  <img align="left" alt="https://twitter.com/Ashadqu7" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ashad-qureshi-65b65a219/">
-  <img align="left" alt="Ashad's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/image/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
@@ -39,7 +31,9 @@
 <div align="center">
 
 <i>Let's connect around the web:</i><br>
-
+<a href = "https://www.linkedin.com/in/ashad-qureshi-65b65a219/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Ashadqu7"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/ashadabdullah_/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 [![Gmail](https://img.icons8.com/bubbles/50/000000/gmail.png)](mailto:harshraj8843@gmail.com)&nbsp;
 
 </div>
