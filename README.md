@@ -6,9 +6,8 @@
 
 <p align="center">
 <a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashad001&show_icons=true&hide_border=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashad001&hide=TeX&langs_count=8,QMake&theme=dark&layout=compact&hide_border=true"/>
-  <img height="200px" width='2300px' src="https://github-readme-streak-stats.herokuapp.com/?user=ashad001&" alt="ashad001&hide=TeX&langs_count=8,QMake&theme=dark&layout=compact&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashad001&show_icons=true&hide_border=true&count_private=true&theme=gotham"/>
+  <img height="200px" width='2300px' src="https://github-readme-streak-stats.herokuapp.com/?user=wahajJaved20&theme=gotham&hide_border=false"/>
 </a>
 
 <a>
