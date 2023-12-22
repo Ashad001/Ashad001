@@ -30,28 +30,21 @@
 
 <a>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&theme=dark"/>
 </a>
 
 <br>
-
-<div>
 
 <p align="center">
     <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashad001&theme=dark" alt="ashad001" />
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashad001&layout=compact&theme=dark"/>
 </p>
-</div>
 
-
-
-<br>
-<br>
-
-
-
-<p 
-align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashad001&theme=darkhub&row=1" alt="ashad001"/></a></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashad001&theme=darkhub&row=1" alt="ashad001"/>
+  </a>
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
