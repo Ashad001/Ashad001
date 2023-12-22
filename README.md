@@ -3,7 +3,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/cc092d37f10541938b4bcd2495673710.png?r=bp3" width="400" alt="Ashad's Dev Card"
+      src="https://github.com/ashad001/ashad001/blob/main/devcard.svg" width="400" alt="Ashad's Dev Card"
     />
   </a>
 </div>
