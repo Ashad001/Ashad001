@@ -99,5 +99,7 @@
   <a href="https://www.hackerrank.com/ashad001sp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashad001sp" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ashad001sp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashad001sp" height="30" width="40" /></a>
   <a href="https://discord.gg/scortious" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8550" height="30" width="40" /></a>
-  <a href="https://rb.gy/n1jyp" title="Resume"> <img src="https://e7.pngegg.com/pngimages/605/888/png-clipart-resume-curriculum-vitae-template-moto-highway-racing-computer-icons-resume-blue-text-thumbnail.png" alt="8550" height="30" width="30"/> </a> 
+<a href="https://rb.gy/n1jyp" title="Resume">
+  <img src="resume_logo.png" alt="Resume" height="30" width="30"/>
+</a>
 </p>  
