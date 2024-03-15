@@ -11,16 +11,16 @@
 
 
 <h2> Hi👋, I am Ashad Abdullah </h2>
-  <a href="https://twitter.com/ashadqu7">
+  <a href="https://drive.google.com/file/d/1pSu_AaO_lst8opMBwXwxNhCLYrAmEFPc/view">
     <img
-      src="https://img.shields.io/twitter/follow/ashadqu7?label=(Formerly Twitter)&logo=X&style=flat-square&color=bbbbbb&logoColor=ffffff"
-      alt="Twitter"
+      src="https://img.shields.io/badge/Resume--brightgreen?style=flat-square&logo=standardresume&labelColor=healthiness"
+      alt="Resume"
     />
   </a>
-  <a href="https://www.linkedin.com/in//">
+  <a href="https://ashad001.notion.site/c1510c6c489040fca136067302807bbf?v=a8009060afa247dbb1c10a757e363a7e&pvs=4">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
+      src="https://img.shields.io/badge/Notion--white?style=flat-square&logo=notion&labelColor=healthiness"
+      alt="Notion"
     />
   </a>
 
@@ -69,8 +69,6 @@
   <a href="https://www.hackerrank.com/ashad001sp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashad001sp" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ashad001sp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashad001sp" height="30" width="40" /></a>
   <a href="https://discord.gg/scortious" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8550" height="30" width="40" /></a>
-<a href="https://rb.gy/n1jyp" title="Resume">
-  <img src="resume_logo.png" alt="Resume" height="30" width="30"/>
 </a>
 </p>  
 
