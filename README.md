@@ -23,13 +23,16 @@
       alt="Notion"
     />
   </a>
+  <a href="https://github.com/Ashad001">
+      <img src="https://komarev.com/ghpvc/?username=Ashad001" alt="Profile Views"/>
+  </a>
+  
 
 - A passionate computer science undergrad seeking to be a good programmer!
 - Enthusiast in Machine Learning and Deep Learning
 - Loves to Automate Stuff
 
 <a>
-
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ashad001&show_icons=true&theme=dark"/>
 </a>
 
