@@ -41,7 +41,7 @@
 
 <p align="center">
     <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashad001&theme=dark" alt="ashad001" />
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashad001&layout=compact&theme=dark"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashad001&layout=compact&theme=dark&langs_count=8"/>
 </p>
 
 </div>
