@@ -23,6 +23,12 @@
       alt="Notion"
     />
   </a>
+  <a href="https://www.coursera.org/learner/ashad001">
+    <img
+      src="https://img.shields.io/badge/Coursera--blue?style=flat-square&logo=coursera&labelColor=healthiness"
+      alt="Coursera"
+    />
+  </a>
 
 
 - A passionate computer science undergrad seeking to be a good programmer!
