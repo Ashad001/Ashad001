@@ -25,16 +25,36 @@ Associate Product Manager @ imagine.art
   Builds imagine.art plugins, extensions, Imagine Computer.
 
 dist-tags:
-  latest: 4.0.0  (imagine.art — Associate Product Manager, 2026–Present)
+  latest: 4.0.0  (imagine.art - Associate Product Manager, 2026-Present)
 
 versions (6):
   4.0.0    imagine.art             Associate Product Manager
   3.0.0    Fyltr                   Founder & Lead Developer
-  2.2.0    Office Field            Senior AI Engineer         (Jul 2025–2026)
-  2.1.0    FireBird Technologies   AI Engineer                (Aug 2024–Jun 2025)
-  2.0.1    FAST-NUCES              Teaching Assistant         (Sep–Dec 2024)
-  2.0.0    RAIN                    Junior AI Engineer         (Sep 2023–May 2024)
+  2.2.0    Office Field            Senior AI Engineer         (Jul 2025-2026)
+  2.1.0    FireBird Technologies   AI Engineer                (Aug 2024-Jun 2025)
+  2.0.1    FAST-NUCES              Teaching Assistant         (Sep-Dec 2024)
+  2.0.0    RAIN                    Junior AI Engineer         (Sep 2023-May 2024)
 ```
+
+<!-- STATS:START -->
+```
+$ gh api stats --live
+```
+
+```text
+public_repos   100
+followers      91
+total_stars    204
+most_starred   remotion-transitions (68 ★)
+top_languages  Python · C++ · Jupyter Notebook
+
+last_synced: 2026-08-06 18:34 UTC
+```
+<!-- STATS:END -->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ashad001/Ashad001/main/assets/lang-chart.svg" alt="top languages by repo" width="450" />
+</div>
 
 ```
 $ npm ls --depth=0 projects/
@@ -66,7 +86,7 @@ $ cat education.log
 ```
 
 ```text
-[2021–Present]  BS Computer Science — FAST-NUCES, Karachi
+[2021-Present]  BS Computer Science - FAST-NUCES, Karachi
                 GPA 3.8/4.0 · Dean's List · Co-founder, Climate.io
 
 [certs]         ML Specialization · GenAI with LLMs (DeepLearning.AI)
@@ -86,8 +106,10 @@ echo email    && echo ashad001sp@gmail.com
 ```
 
 <div align="center">
+<br>
 
-<!-- contribution snake — first run of .github/workflows/snake.yml populates this -->
+<!-- contribution snake - animates once .github/workflows/snake.yml has run on GitHub -->
 <img src="https://raw.githubusercontent.com/Ashad001/Ashad001/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 
 </div>
+
