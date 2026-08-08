@@ -36,6 +36,10 @@ versions (6):
   2.0.0    RAIN                    Junior AI Engineer         (Sep 2023-May 2024)
 ```
 
+<table>
+<tr>
+<td valign="top">
+
 <!-- STATS:START -->
 ```
 $ gh api stats --live
@@ -59,9 +63,14 @@ last_synced: 2026-08-08 18:33 UTC
 ```
 <!-- STATS:END -->
 
-<div align="center">
+</td>
+<td valign="top" width="470">
+
 <img src="https://raw.githubusercontent.com/Ashad001/Ashad001/main/assets/lang-chart.svg" alt="top languages by repo" width="450" />
-</div>
+
+</td>
+</tr>
+</table>
 
 ```
 $ npm ls --depth=0 projects/
