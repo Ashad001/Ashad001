@@ -8,7 +8,7 @@
   </picture>
 </a>
 
-[portfolio](https://ashad001-portfolio.vercel.app) · [resume](https://drive.google.com/file/d/1pSu_AaO_lst8opMBwXwxNhCLYrAmEFPc/view) · [linkedin](https://www.linkedin.com/in/ashadqureshi1/) · [x](https://x.com/ashadqu7) · [email](mailto:ashad001sp@gmail.com)
+[portfolio](https://ashadabdullah.com) · [resume](https://drive.google.com/file/d/1pSu_AaO_lst8opMBwXwxNhCLYrAmEFPc/view) · [linkedin](https://www.linkedin.com/in/ashadqureshi1/) · [x](https://x.com/ashadqu7) · [email](mailto:ashad001sp@gmail.com)
 
 </div>
 
