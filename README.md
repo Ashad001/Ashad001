@@ -52,19 +52,19 @@ $ gh api stats --live
 
 ```text
 public_repos       100
-followers          91
-total_stars        204
+followers          92
+total_stars        203
 most_starred       remotion-transitions (68 ★)
 top_languages      Python · C++ · Jupyter Notebook
 
-contributions_ytd  1630
-commits_ytd        99
+contributions_ytd  1607
+commits_ytd        95
 pull_requests_ytd  1
 issues_ytd         2
-current_streak     18 days
+current_streak     0 days
 longest_streak     26 days
 
-last_synced: 2026-08-08 18:33 UTC
+last_synced: 2026-08-10 01:27 UTC
 ```
 <!-- STATS:END -->
 
