@@ -229,6 +229,22 @@ def main():
 
     render_lang_chart(langs, REPO / "assets" / "lang-chart.svg")
 
+    # machine-readable copy for scripts/build_card.py
+    card_stats = {
+        "public_repos": public_repos,
+        "followers": followers,
+        "total_stars": stars,
+        "most_starred": f"{top_repo} ({top_stars} \u2605)" if top_repo else "n/a",
+        "top_languages": " \u00b7 ".join(l for l, _ in langs.most_common(3)) or "n/a",
+    }
+    if contrib:
+        card_stats.update(
+            commits_ytd=contrib["commits"],
+            current_streak=contrib["current_streak"],
+            longest_streak=contrib["longest_streak"],
+        )
+    (REPO / "assets" / "stats.json").write_text(json.dumps(card_stats, indent=2) + "\n")
+
     print("updated" if changed else "no changes")
 
 

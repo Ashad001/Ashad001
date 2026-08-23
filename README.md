@@ -1,44 +1,49 @@
 <div align="center">
 
-```
- █████╗ ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗  ██████╗  ██╗
-██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═████╗██╔═████╗███║
-███████║███████╗███████║███████║██║  ██║██║██╔██║██║██╔██║╚██║
-██╔══██║╚════██║██╔══██║██╔══██║██║  ██║████╔╝██║████╔╝██║ ██║
-██║  ██║███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚██████╔╝ ██║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝  ╚═╝
-```
+<a href="https://ashadabdullah.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-light.svg">
+    <img alt="ashad@imagine - Engineer turned Manager and Founder, Plugins | Harness | Cloud" src="assets/card-dark.svg" width="871">
+  </picture>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1000&color=E8A33D&center=true&vCenter=true&width=650&lines=AI+engineer+turned+Product+Manager;full-stack+%7C+ships+at+the+speed+of+thought;forward-deployed+builder+%40+imagine.art)](https://git.io/typing-svg)
+[portfolio](https://ashad001-portfolio.vercel.app) · [resume](https://drive.google.com/file/d/1pSu_AaO_lst8opMBwXwxNhCLYrAmEFPc/view) · [linkedin](https://www.linkedin.com/in/ashadqureshi1/) · [x](https://x.com/ashadqu7) · [email](mailto:ashad001sp@gmail.com)
 
 </div>
 
-```
-$ npm info ashad001
-```
+<details>
+<summary><code>$ cat experience.log</code></summary>
 
 ```text
-ashad001@4.0.0 | MIT | Karachi, PK
-Associate Product Manager @ imagine.art
+2026-now   ImagineArt (Vyro)        Associate Product Manager   Islamabad, PK
+2025-2026  Fyltr                    Founder & Lead Developer    Remote
+2025-2026  TraderWare / TradersGPT  Senior AI Engineer          Karachi, PK
+2024-2025  FireBird Technologies    AI Engineer                 Singapore
+2023-2024  RAIN                     Junior AI Engineer          Dallas, TX
 
-  AI engineer turned PM. Full-stack. Forward-deployed.
-  Builds imagine.art plugins, extensions, Imagine Computer.
-
-dist-tags:
-  latest: 4.0.0  (imagine.art - Associate Product Manager, 2026-Present)
-
-versions (6):
-  4.0.0    imagine.art             Associate Product Manager
-  3.0.0    Fyltr                   Founder & Lead Developer
-  2.2.0    Office Field            Senior AI Engineer         (Jul 2025-2026)
-  2.1.0    FireBird Technologies   AI Engineer                (Aug 2024-Jun 2025)
-  2.0.1    FAST-NUCES              Teaching Assistant         (Sep-Dec 2024)
-  2.0.0    RAIN                    Junior AI Engineer         (Sep 2023-May 2024)
+2021-2025  BS Computer Science, FAST-NUCES - CGPA 3.78/4.0, Dean's List
 ```
 
-<table>
-<tr>
-<td valign="top">
+</details>
+
+<details>
+<summary><code>$ ls projects/</code></summary>
+
+```text
+claude-arcade   terminal minesweeper wired into Claude Code hooks   rust + ratatui
+motif           MCP server that debugs UI from video recordings     gemini 2.5 flash
+bolt-sql        schema-aware natural language to SQL engine         rust, spider-eval
+superset        personal fork - gutter diffs, usage, auto-update    electron fork
+fyltr           AI-native form generation and verification SaaS     next.js, r2
+```
+
+[claude-arcade](https://github.com/Ashad001/claude-arcade) · [motif](https://github.com/Ashad001/motif) · [bolt-sql](https://github.com/Ashad001/bolt-sql) · [superset](https://github.com/Ashad001/superset) · [fyltr](https://fyltr-co.vercel.app)
+
+</details>
+
+<details>
+<summary><code>$ gh api stats --live</code></summary>
 
 <!-- STATS:START -->
 ```
@@ -63,69 +68,10 @@ last_synced: 2026-08-08 18:33 UTC
 ```
 <!-- STATS:END -->
 
-</td>
-<td valign="top" width="470">
+<img src="assets/lang-chart.svg" alt="top languages by repo" width="450" />
 
-<img src="https://raw.githubusercontent.com/Ashad001/Ashad001/main/assets/lang-chart.svg" alt="top languages by repo" width="450" />
-
-</td>
-</tr>
-</table>
-
-```
-$ npm ls --depth=0 projects/
-```
-
-```text
-ashad001@career
-├── fyltr@latest          AI-native smart form builder + extraction engine
-├── bolt-sql@1.0.0        fast natural-language → SQL translator
-├── climate-gemma@1.0.0   Gemma2B fine-tuned on climate Q&A
-└── room-aligner@1.0.0    interior-design assistant with VLM agents
-```
-[fyltr.co](https://fyltr.co) · [bolt-sql](https://github.com/Ashad001/bolt-sql) · [climate-gemma](https://github.com/Ashad001/Climate-Gemma) · [room-aligner](https://github.com/Ashad001/RoomAligner)
-
-```
-$ ashad --features
-```
-
-```text
---languages    python  go  typescript  c++
---ai-ml        openai  groq  pytorch  tensorflow  rag  llms
---frameworks   react  next.js  fastapi  flask
---cloud        docker  gcp  aws  vercel
---databases    mongodb  mysql  redis
-```
-
-```
-$ cat education.log
-```
-
-```text
-[2021-Present]  BS Computer Science - FAST-NUCES, Karachi
-                GPA 3.8/4.0 · Dean's List · Co-founder, Climate.io
-
-[certs]         ML Specialization · GenAI with LLMs (DeepLearning.AI)
-                TensorFlow Developer · Intro to GenAI (Google Cloud)
-```
-
-```
-$ cat contact.sh
-```
-
-```bash
-echo github   && open https://github.com/Ashad001
-echo linkedin && open https://www.linkedin.com/in/ashadqureshi1/
-echo x        && open https://x.com/ashadqu7
-echo resume   && open https://drive.google.com/file/d/1pSu_AaO_lst8opMBwXwxNhCLYrAmEFPc/view
-echo email    && echo ashad001sp@gmail.com
-```
+</details>
 
 <div align="center">
-<br>
-
-<!-- contribution snake - animates once .github/workflows/snake.yml has run on GitHub -->
 <img src="https://raw.githubusercontent.com/Ashad001/Ashad001/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-
 </div>
-

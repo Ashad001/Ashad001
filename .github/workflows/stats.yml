@@ -21,12 +21,17 @@ jobs:
         with:
           python-version: "3.x"
 
+      # build_card.py renders the sprite from assets/bravo.png, so it needs Pillow
+      - run: pip install --quiet pillow
+
       - run: python3 scripts/fetch_stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - run: python3 scripts/build_card.py
+
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/lang-chart.svg
+          git add README.md assets/lang-chart.svg assets/stats.json assets/card*.svg
           git diff --cached --quiet || (git commit -m "chore: sync live stats" && git push)
